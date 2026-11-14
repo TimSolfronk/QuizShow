@@ -1,0 +1,181 @@
+{
+  "title": "Movies & Music",
+  "categories": [
+    {
+      "name": "Movies",
+      "questions": [
+        {
+          "value": 100,
+          "question": "In 'The Lion King', what kind of animal is Timon?",
+          "hint": "He sings 'Hakuna Matata' alongside a warthog.",
+          "solution": "A meerkat"
+        },
+        {
+          "value": 200,
+          "question": "Which movie features the famous line 'I'll be back'?",
+          "hint": "Arnold Schwarzenegger says it.",
+          "solution": "The Terminator (1984)"
+        },
+        {
+          "value": 300,
+          "question": "Who directed 'Jurassic Park' (1993)?",
+          "hint": "He also directed 'Jaws' and 'E.T.'",
+          "solution": "Steven Spielberg"
+        },
+        {
+          "value": 400,
+          "question": "Which film won the first-ever Academy Award for Best Animated Feature?",
+          "hint": "A green ogre was involved.",
+          "solution": "Shrek (2002 ceremony)"
+        },
+        {
+          "value": 500,
+          "question": "What is the highest-grossing film of all time (unadjusted for inflation)?",
+          "hint": "It went 'beyond' expectations - twice.",
+          "solution": "Avatar (2009)"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "questions": [
+        {
+          "value": 100,
+          "question": "How many strings does a standard guitar have?",
+          "hint": "One more than five.",
+          "solution": "Six"
+        },
+        {
+          "value": 200,
+          "question": "Which band released the album 'Abbey Road'?",
+          "hint": "Four lads from Liverpool.",
+          "solution": "The Beatles"
+        },
+        {
+          "value": 300,
+          "question": "Which singer is known as the 'Queen of Pop'?",
+          "hint": "She 'vogued' into the spotlight.",
+          "solution": "Madonna"
+        },
+        {
+          "value": 400,
+          "question": "Which composer wrote the 'Moonlight Sonata'?",
+          "hint": "He kept composing even after losing his hearing.",
+          "solution": "Ludwig van Beethoven"
+        },
+        {
+          "value": 500,
+          "question": "What is the term for a piece of music written for four performers?",
+          "hint": "The name matches the number of players.",
+          "solution": "Quartet"
+        }
+      ]
+    },
+    {
+      "name": "TV Shows",
+      "questions": [
+        {
+          "value": 100,
+          "question": "In 'Friends', what is the name of the coffee shop the gang visits?",
+          "hint": "It sounds like a central place to smell java.",
+          "solution": "Central Perk"
+        },
+        {
+          "value": 200,
+          "question": "Which TV series is set on the fictional continent of Westeros?",
+          "hint": "Winter is coming.",
+          "solution": "Game of Thrones"
+        },
+        {
+          "value": 300,
+          "question": "What is the name of the paper company in 'The Office' (US)?",
+          "hint": "Its two words both relate to locations in New York State.",
+          "solution": "Dunder Mifflin"
+        },
+        {
+          "value": 400,
+          "question": "Which animated series is set in the town of Springfield?",
+          "hint": "D'oh!",
+          "solution": "The Simpsons"
+        },
+        {
+          "value": 500,
+          "question": "Which alias does Walter White adopt in 'Breaking Bad'?",
+          "hint": "It is shared with a famous physicist.",
+          "solution": "Heisenberg"
+        }
+      ]
+    },
+    {
+      "name": "Video Games",
+      "questions": [
+        {
+          "value": 100,
+          "question": "What color is Mario's cap?",
+          "hint": "Think of fire trucks.",
+          "solution": "Red",
+          "picture": "pictures/mario_cap.png"
+        },
+        {
+          "value": 200,
+          "question": "In which game do players build with blocks in an open world?",
+          "hint": "Creepers explode at night.",
+          "solution": "Minecraft"
+        },
+        {
+          "value": 300,
+          "question": "What is the best-selling video game console of all time?",
+          "hint": "It is Sony's second station.",
+          "solution": "PlayStation 2"
+        },
+        {
+          "value": 400,
+          "question": "Which company created the character Link?",
+          "hint": "The hero of Hyrule.",
+          "solution": "Nintendo"
+        },
+        {
+          "value": 500,
+          "question": "What is the name of the main villain in 'The Legend of Zelda' series?",
+          "hint": "He wants the Triforce.",
+          "solution": "Ganondorf (Ganon)"
+        }
+      ]
+    },
+    {
+      "name": "Celebrities",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Which actress is married to actor Ryan Reynolds?",
+          "hint": "She starred in 'Gossip Girl'.",
+          "solution": "Blake Lively"
+        },
+        {
+          "value": 200,
+          "question": "What is Elton John's birth name?",
+          "hint": "It starts with Reginald.",
+          "solution": "Reginald Kenneth Dwight"
+        },
+        {
+          "value": 300,
+          "question": "Which actor played Jack Dawson in 'Titanic'?",
+          "hint": "He later entered people's dreams in 'Inception'.",
+          "solution": "Leonardo DiCaprio"
+        },
+        {
+          "value": 400,
+          "question": "Which actor played Gandalf in 'The Lord of the Rings'?",
+          "hint": "He also played Magneto in the X-Men films.",
+          "solution": "Ian McKellen"
+        },
+        {
+          "value": 500,
+          "question": "Who was the first actor to portray James Bond on film?",
+          "hint": "His martini was shaken, not stirred.",
+          "solution": "Sean Connery ('Dr. No', 1962)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "file_id": "general_knowledge",
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team 1",
+      "score": 500
+    },
+    {
+      "id": 2,
+      "name": "Team 2",
+      "score": 500
+    },
+    {
+      "id": 3,
+      "name": "Team 3",
+      "score": 500
+    }
+  ],
+  "next_team_id": 4,
+  "used": [],
+  "board_team_id": 1
+}

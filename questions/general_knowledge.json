@@ -1,0 +1,181 @@
+{
+  "title": "General Knowledge",
+  "categories": [
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "value": 100,
+          "question": "What is the capital of France?",
+          "hint": "It is also known as the City of Light.",
+          "solution": "Paris",
+          "picture": "pictures/france_flag.png"
+        },
+        {
+          "value": 200,
+          "question": "Which is the longest river in the world?",
+          "hint": "It flows through Egypt.",
+          "solution": "The Nile (about 6,650 km)"
+        },
+        {
+          "value": 300,
+          "question": "What is the largest desert on Earth?",
+          "hint": "It is surprisingly not a hot one.",
+          "solution": "Antarctica (a cold desert)"
+        },
+        {
+          "value": 400,
+          "question": "Which country spans the most time zones?",
+          "hint": "Think of a country with lots of overseas territories.",
+          "solution": "France (12 time zones with its overseas territories)"
+        },
+        {
+          "value": 500,
+          "question": "What is the smallest country in the world by area?",
+          "hint": "It is located entirely inside a city.",
+          "solution": "Vatican City (0.44 km\u00b2)"
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "value": 100,
+          "question": "In which year did World War II end?",
+          "hint": "It is the same year the atomic bombs were dropped.",
+          "solution": "1945"
+        },
+        {
+          "value": 200,
+          "question": "Who was the first person to walk on the Moon?",
+          "hint": "One small step for man...",
+          "solution": "Neil Armstrong (1969)"
+        },
+        {
+          "value": 300,
+          "question": "Julius Caesar was a famous leader of which ancient civilization?",
+          "hint": "It was centered on Rome.",
+          "solution": "Ancient Rome"
+        },
+        {
+          "value": 400,
+          "question": "In which year did the Berlin Wall fall?",
+          "hint": "Near the end of the 1980s.",
+          "solution": "1989"
+        },
+        {
+          "value": 500,
+          "question": "Which civilization built the mountain city of Machu Picchu?",
+          "hint": "Their empire was in South America.",
+          "solution": "The Inca"
+        }
+      ]
+    },
+    {
+      "name": "Science & Nature",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Which gas do plants absorb from the atmosphere?",
+          "hint": "Humans exhale it.",
+          "solution": "Carbon dioxide (CO\u2082)"
+        },
+        {
+          "value": 200,
+          "question": "What is the chemical symbol for gold?",
+          "hint": "It comes from the Latin word 'aurum'.",
+          "solution": "Au"
+        },
+        {
+          "value": 300,
+          "question": "How many bones are in the adult human body?",
+          "hint": "It is 200 plus six.",
+          "solution": "206"
+        },
+        {
+          "value": 400,
+          "question": "What is the hardest naturally occurring substance on Earth?",
+          "hint": "It is allegedly a girl's best friend.",
+          "solution": "Diamond"
+        },
+        {
+          "value": 500,
+          "question": "Which planet is famous for its prominent ring system?",
+          "hint": "It is the sixth planet from the Sun.",
+          "solution": "Saturn"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "questions": [
+        {
+          "value": 100,
+          "question": "How many players from one team are on the field in a soccer match?",
+          "hint": "Including the goalkeeper.",
+          "solution": "11"
+        },
+        {
+          "value": 200,
+          "question": "In which sport would you perform a slam dunk?",
+          "hint": "Michael Jordan was famous for it.",
+          "solution": "Basketball"
+        },
+        {
+          "value": 300,
+          "question": "How often are the Summer Olympic Games held?",
+          "hint": "It is a four-year cycle.",
+          "solution": "Every four years"
+        },
+        {
+          "value": 400,
+          "question": "What is the maximum score in a game of ten-pin bowling?",
+          "hint": "It requires twelve strikes in a row.",
+          "solution": "300"
+        },
+        {
+          "value": 500,
+          "question": "In tennis, what is the term for a score of zero?",
+          "hint": "It sounds like an egg.",
+          "solution": "Love"
+        }
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Which fruit is the main ingredient of guacamole?",
+          "hint": "It is also called an alligator pear.",
+          "solution": "Avocado"
+        },
+        {
+          "value": 200,
+          "question": "Sushi originated in which country?",
+          "hint": "Its flag features a red circle.",
+          "solution": "Japan"
+        },
+        {
+          "value": 300,
+          "question": "Which spice is the most expensive in the world by weight?",
+          "hint": "It is harvested from crocus flowers.",
+          "solution": "Saffron"
+        },
+        {
+          "value": 400,
+          "question": "Which pasta's name literally means 'little worms' in Italian?",
+          "hint": "It is long and thin.",
+          "solution": "Spaghetti"
+        },
+        {
+          "value": 500,
+          "question": "What is the main ingredient of traditional marzipan?",
+          "hint": "It is technically the seed of a stone fruit.",
+          "solution": "Almonds"
+        }
+      ]
+    }
+  ]
+}
