@@ -1,0 +1,185 @@
+{
+  "title": "Quiz Show Teambuilding - Board 1",
+  "categories": [
+    {
+      "name": "IN",
+      "questions": [
+        {
+          "value": 100,
+          "question": "What is IN's least favourite building?",
+          "hint": "The vote was almost unanimous - 92% went to the same building.",
+          "solution": "M-Building (92% of votes; the only other vote went to Nymble)"
+        },
+        {
+          "value": 200,
+          "question": "Which cuisine is not the favourite cuisine of anyone in IN? (Mexican, Indian, Swedish or German)",
+          "hint": "IN's actual favourites were Italian (1st) and Chinese (2nd).",
+          "solution": "Mexican (Italian got 5 votes, Chinese 3; Indian, Swedish and German got one vote each)"
+        },
+        {
+          "value": 300,
+          "question": "What is IN's least chosen season?",
+          "hint": "It only got 7%, far behind Summer (46%), Winter (30%) and Autumn (17%).",
+          "solution": "Spring (7%)"
+        },
+        {
+          "value": 400,
+          "question": "How many people in IN have pineapple in their top 3 pizza toppings?",
+          "hint": "It was actually the most common pick - but it is a small group.",
+          "solution": "6 (cheese was 2nd with 5 people, mushroom 3rd with 3)"
+        },
+        {
+          "value": 500,
+          "question": "What is IN's favourite hour of the day?",
+          "hint": "Not everyone answers during normal waking hours...",
+          "solution": "3 AM (3 answers) in front of 6 PM (2 answers)"
+        }
+      ]
+    },
+    {
+      "name": "Inception",
+      "questions": [
+        {
+          "value": 100,
+          "question": "How many steps does an average runner need to finish a marathon?",
+          "hint": "Recreational runners average about 170 steps per minute over 42.195 km.",
+          "solution": "About 46,000 steps"
+        },
+        {
+          "value": 200,
+          "question": "How many Big Ben towers stacked end-to-end are needed to reach the top of the Burj Khalifa?",
+          "hint": "Big Ben is 96 m tall, the Burj Khalifa 829.8 m.",
+          "solution": "8.6 towers"
+        },
+        {
+          "value": 300,
+          "question": "In terms of area, how many Spains equal Greenland?",
+          "hint": "Greenland covers 2,166,086 km², Spain 506,030 km².",
+          "solution": "4.28"
+        },
+        {
+          "value": 400,
+          "question": "How many lifeboats does the largest cruise ship have?",
+          "hint": "The Icon of the Seas - each of its boats can hold 450 people.",
+          "solution": "17"
+        },
+        {
+          "value": 500,
+          "question": "How often does the average Swedish lake fit into the biggest Swedish lake?",
+          "hint": "The biggest one (Vänern) covers 5,519 km²; the average lake is 0.4 km². Sweden has around 100,000 lakes.",
+          "solution": "13,798 times"
+        }
+      ]
+    },
+    {
+      "name": "Picture",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Who is this singer?",
+          "hint": "His name comes from a childhood photo of him in a grumpy bunny costume he hated.",
+          "solution": "Bad Bunny",
+          "picture": "pictures/badbunny.jpg"
+        },
+        {
+          "value": 200,
+          "question": "What animal is this?",
+          "hint": "It was the world's most endangered cat in the early 2000s, with only about 100 left in Spain and Portugal.",
+          "solution": "Lynx (Iberian lynx)",
+          "picture": "pictures/lynx.webp"
+        },
+        {
+          "value": 300,
+          "question": "What is this movie scene from?",
+          "hint": "It goes together with a Wiz Khalifa and Charlie Puth song.",
+          "solution": "Furious 7 - the 'See You Again' scene (Paul Walker tribute)",
+          "picture": "pictures/furious7.jpg"
+        },
+        {
+          "value": 400,
+          "question": "What is this actor's most famous role?",
+          "hint": "J.K. Rowling privately told him the character's secret years before the final book came out.",
+          "solution": "Severus Snape (Alan Rickman)",
+          "picture": "pictures/alan_rickman.jpg"
+        },
+        {
+          "value": 500,
+          "question": "How is this used?",
+          "hint": "The Inca used knots tied in a decimal positional system with it.",
+          "solution": "A quipu - to store numbers and other values in the cords",
+          "picture": "pictures/Quipu-Inca-Brooklyn-Museum.webp"
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "questions": [
+        {
+          "value": 100,
+          "question": "How many colours are traditionally said to be in a rainbow?",
+          "hint": "Red, orange, yellow, green, blue... and two more.",
+          "solution": "Seven (red, orange, yellow, green, blue, indigo and violet)"
+        },
+        {
+          "value": 200,
+          "question": "What is the hardest natural substance on Earth?",
+          "hint": "It is so hard that diamonds are cut using other diamonds.",
+          "solution": "Diamond"
+        },
+        {
+          "value": 300,
+          "question": "Which animal has fingerprints so similar to humans that they can sometimes be confused? (Raccoon, Chimpanzee, Gorilla or Koala)",
+          "hint": "Even under a microscope, it is sometimes hard to distinguish.",
+          "solution": "Koala"
+        },
+        {
+          "value": 400,
+          "question": "Which animal has three true hearts?",
+          "hint": "If you just count pumping chambers instead, the cockroach wins with 13.",
+          "solution": "Octopus, squid and cuttlefish"
+        },
+        {
+          "value": 500,
+          "question": "Which animal is known to have the largest eyes in the animal kingdom?",
+          "hint": "They can reach around 27 cm in diameter - roughly the size of a football. The biggest whale eye is only 11 cm.",
+          "solution": "Giant/colossal squid (answering 'squid' is enough)"
+        }
+      ]
+    },
+    {
+      "name": "Knowledge",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Who wrote the Odyssey?",
+          "hint": "An ancient Greek epic poet.",
+          "solution": "Homer (8th century BC; 24 books, about 12,000 lines)"
+        },
+        {
+          "value": 200,
+          "question": "What is in the centre of the Milky Way?",
+          "hint": "It has a mass about 4 million times that of the Sun.",
+          "solution": "A massive black hole - Sagittarius A*"
+        },
+        {
+          "value": 300,
+          "question": "How many arrondissements (districts) does Paris have?",
+          "hint": "Their numbers wind around the city in the shape of a snail.",
+          "solution": "20"
+        },
+        {
+          "value": 400,
+          "question": "What does '67' represent in the original video of the meme?",
+          "hint": "It goes back to lyrics in Skrilla's song 'Doot Doot (6 7)' and was picked up in basketball - think LaMelo Ball.",
+          "solution": "The height of the player: 6'7'' (the '6 7 kid' in the video is Maverick)"
+        },
+        {
+          "value": 500,
+          "question": "What is the total budget of KTH in 2025 (give or take 100 million kr)?",
+          "hint": "Sweden's largest technical university operates on roughly 5.5 billion.",
+          "solution": "About 6.353 billion kr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "title": "Quiz Show Teambuilding - Board 2",
+  "categories": [
+    {
+      "name": "IN",
+      "questions": [
+        {
+          "value": 100,
+          "question": "What is IN's favourite fika (like kanelbullar, dammsugare etc.)?",
+          "hint": "The classic won clearly - the 'chokladbollar' could not keep up.",
+          "solution": "Kanelbullar (1st with 54%, in front of chokladbollar with 23%)"
+        },
+        {
+          "value": 200,
+          "question": "What is IN's second favourite game?",
+          "hint": "Blood on the Clocktower won with 39% - this classic card game came second with 31%.",
+          "solution": "Uno (Minecraft was 3rd with 23%)"
+        },
+        {
+          "value": 300,
+          "question": "What is IN's favourite soft drink?",
+          "hint": "It even beat water.",
+          "solution": "Ice tea (30 votes), in front of water (23) and both Sprite and Coca-Cola (15% each)"
+        },
+        {
+          "value": 400,
+          "question": "What is IN's least favourite pet?",
+          "hint": "Almost nobody picked it as their favourite pet.",
+          "solution": "Hamster (only 8 picked it as a favourite pet - fewer than Dog (38) and Cat (54))"
+        },
+        {
+          "value": 500,
+          "question": "How many people answered rap as their favourite genre?",
+          "hint": "The top 3 genres were pop, indie and rock.",
+          "solution": "0"
+        }
+      ]
+    },
+    {
+      "name": "Inception",
+      "questions": [
+        {
+          "value": 100,
+          "question": "How many letters would you need to write the whole periodic table (the symbols of the elements)?",
+          "hint": "14 elements have one-letter symbols, the other 104 have two.",
+          "solution": "222 (14 × 1 + 104 × 2)"
+        },
+        {
+          "value": 200,
+          "question": "How many passenger windows does an Airbus A380 (the largest passenger plane) have?",
+          "hint": "That works out to only 0.4 windows per passenger.",
+          "solution": "220 (about 550 passengers with a multi-class layout)"
+        },
+        {
+          "value": 300,
+          "question": "How many iPhones were sold in 2025?",
+          "hint": "That many of them stacked would be equivalent to a dollar-bill stack 27 km high.",
+          "solution": "247 million ($209.6 billion in revenue)"
+        },
+        {
+          "value": 400,
+          "question": "How many water molecules are there in 1 litre of water?",
+          "hint": "Water has a molar mass of 18 g/mol and 1 mol = 6.02×10²³ molecules.",
+          "solution": "About 3.3×10²⁵ molecules"
+        },
+        {
+          "value": 500,
+          "question": "How often does Little Italy fit into the country Italy?",
+          "hint": "Italy covers 301,340 km²; Little Italy in Manhattan is 0.05 km².",
+          "solution": "About 6 million times (6.027 million)"
+        }
+      ]
+    },
+    {
+      "name": "Picture",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Who is this film director?",
+          "hint": "A near-fatal car accident at 18 ended his racing dreams and pushed him toward film school.",
+          "solution": "George Lucas",
+          "picture": "pictures/George_Lucas_by_Gage_Skidmore.jpg"
+        },
+        {
+          "value": 200,
+          "question": "What country is this monument from?",
+          "hint": "The Incas built it without mortar - the stones fit so tightly you cannot slide a knife between them.",
+          "solution": "Peru (Machu Picchu)",
+          "picture": "pictures/Machu_Picchu,_Peru.jpg"
+        },
+        {
+          "value": 300,
+          "question": "Who painted this painting?",
+          "hint": "One version was stolen from an Oslo museum in 1994, on the opening day of the Winter Olympics.",
+          "solution": "Edvard Munch (The Scream)",
+          "picture": "pictures/the_scream.webp"
+        },
+        {
+          "value": 400,
+          "question": "What is this waterfall?",
+          "hint": "Locally it is called Mosi-oa-Tunya, 'the smoke that thunders', for its spray visible from kilometres away.",
+          "solution": "Victoria Falls",
+          "picture": "pictures/victoria_falls.jpg"
+        },
+        {
+          "value": 500,
+          "question": "What country is this?",
+          "hint": "The U.S. bought these islands from Denmark in 1917 for $25 million in gold.",
+          "solution": "The United States (the flag of the U.S. Virgin Islands)",
+          "picture": "pictures/Flag-US-Virgin-Islands.webp"
+        }
+      ]
+    },
+    {
+      "name": "General",
+      "questions": [
+        {
+          "value": 100,
+          "question": "Which is the largest organ in the human body?",
+          "hint": "An organ is two or more tissue types cooperating to carry out specific jobs.",
+          "solution": "The skin"
+        },
+        {
+          "value": 200,
+          "question": "Which country has the most time zones (including overseas territories)?",
+          "hint": "Without overseas territories, Russia would lead with 11.",
+          "solution": "France (12 of the 24 time zones)"
+        },
+        {
+          "value": 300,
+          "question": "What is the only letter that does not appear in any US state name?",
+          "hint": "J, Z and X are also rare - but they do appear (New Jersey, Arizona, New Mexico and Texas).",
+          "solution": "Q"
+        },
+        {
+          "value": 400,
+          "question": "What is the only mammal capable of true flight?",
+          "hint": "Flying squirrels, sugar gliders and colugos do not count - they cannot flap their wings.",
+          "solution": "The bat"
+        },
+        {
+          "value": 500,
+          "question": "What is the national animal of Scotland?",
+          "hint": "It has been the national animal for centuries and symbolises purity, strength and independence.",
+          "solution": "The unicorn"
+        }
+      ]
+    },
+    {
+      "name": "Knowledge",
+      "questions": [
+        {
+          "value": 100,
+          "question": "What food never goes rotten?",
+          "hint": "The first traces of it found are 9,000 years old.",
+          "solution": "Honey"
+        },
+        {
+          "value": 200,
+          "question": "What set of equations is written on a plate in the Tekniska Högskolan subway station?",
+          "hint": "They describe electromagnetism - look on the wall on the side for the subway towards Fruängen.",
+          "solution": "Maxwell's equations"
+        },
+        {
+          "value": 300,
+          "question": "When was Minecraft officially fully released?",
+          "hint": "The 'Adventure Update' took it out of beta.",
+          "solution": "2011 (18 November)",
+          "picture": "pictures/minecraft_timeline.png"
+        },
+        {
+          "value": 400,
+          "question": "What is hexakosioihexekontahexaphobia?",
+          "hint": "From ancient Greek: hexakósioi (six hundred), hexékonta (sixty), héx (six) and phóbos (fear).",
+          "solution": "The fear of the number 666 (the Number of the Beast)"
+        },
+        {
+          "value": 500,
+          "question": "Which country has the most pyramids?",
+          "hint": "Not Egypt - look further south along the Nile.",
+          "solution": "Sudan (250-255, vs. Egypt's 118-138; some Sudanese pyramids are far more ancient)"
+        }
+      ]
+    }
+  ]
+}
